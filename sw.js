@@ -1,0 +1,1 @@
+self.addEventListener('install', function(e) { e.waitUntil(caches.open('huit-shop-cache').then(function(cache) { return cache.addAll(['/','/index.html','/mechanic.html','/admin.html']); })); });
