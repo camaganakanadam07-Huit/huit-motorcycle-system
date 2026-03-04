@@ -1,0 +1,1 @@
+// Receipt generation logic, clean customer-friendly output, Bluetooth-ready

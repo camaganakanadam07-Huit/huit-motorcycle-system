@@ -1,0 +1,1 @@
+// Mechanic workflow logic with POS, services, parts, discounts, pending jobs
